@@ -1,0 +1,4 @@
+test/CardGame.Tests/obj/
+test/CardGame.Tests/bin/
+src/CardGame/obj/
+.vscode/
